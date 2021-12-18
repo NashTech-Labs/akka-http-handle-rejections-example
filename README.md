@@ -1,4 +1,4 @@
-#Akka Http Handle Rejections Example
+# Akka Http Handle Rejections Example
 
 - This template is about handling rejections in akka-http routes.
 - A Rejection is not a failure, it means to pass a request to another branch in the routing tree in case if it does not match with a directive.
